@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">EsqToEsq</string>
+    <string name="view">View</string>
+
+
+    <string name="hint_enter_a_message">Type a message…</string>
+    <string name="on_log_click_message">Норм долго нажал</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_copy">Копировать</string>
+    <string name="copied_message">Сообщение скопировано!</string>
+
+    <string name="date_header_today">Сегодня</string>
+    <string name="date_header_yesterday">Вчера</string>
+
+    <string-array name="view_types_dialog">
+        <item name="image">Image (default)</item>
+        <item name="voice">Voice message (custom)</item>
+    </string-array>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="title_activity_test">Test</string>
+
+
+</resources>
